@@ -6,7 +6,7 @@ blocks:
   heading: Test
   text: 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
     mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. '
-  background_image: "/uploads/2018/04/21/forest-2.jpg"
+  background_image: "/uploads/2018/04/21/hottub.jpg"
   background-color: blue
   settings:
     top_margin: none
@@ -69,4 +69,14 @@ blocks:
   background_color: "#ddd"
   text: Sed posuere consectetur est at lobortis. Aenean lacinia bibendum nulla sed
     consectetur.
+- template: about-1
+  settings:
+    top_margin: 120px
+    bottom_margin: 120px
+    text_color: black
+  heading: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
+    ridiculus mus.
+  text: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+    mus.
+  image: "/uploads/2018/04/21/forest-2.jpg"
 ---
