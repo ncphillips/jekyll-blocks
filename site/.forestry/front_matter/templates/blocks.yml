@@ -20,5 +20,5 @@ fields:
   label: Blocks
   name: blocks
 pages:
+- site/index.md
 - site/about.md
-- index.md
