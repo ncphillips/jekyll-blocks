@@ -19,3 +19,5 @@ fields:
   - features-1
   label: Blocks
   name: blocks
+pages:
+- index.md
