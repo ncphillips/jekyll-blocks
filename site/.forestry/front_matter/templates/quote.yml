@@ -1,0 +1,11 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: text
+  label: text
+- type: include
+  name: settings
+  label: settings
+  template: block-settings

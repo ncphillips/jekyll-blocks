@@ -49,6 +49,22 @@ blocks:
 
     Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vestibulum id ligula porta felis euismod semper. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
   heading: Hot tub in the woods
+- template: quote
+  text: Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies
+    vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec
+    id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur
+    ac, vestibulum at eros.
+  settings:
+    bottom_margin: none
+    top_margin: none
+    text_color: "#1812F2"
+- template: cover-1
+  settings:
+    top_margin: 120px
+    bottom_margin: 120px
+  heading: THis is a test
+  text: hello world
+  background_color: "#EB0303"
 - template: about-2
   settings:
     top_margin: 120px
